@@ -9,6 +9,8 @@ public class SportCarFactory extends AbstractFactory {
     public BenzCar createBenzCar() {
         return new BenzSportCar();
     }
+    public class test(){
+    }
 
     @Override
     public BmwCar createBmwCar() {
