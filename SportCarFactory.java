@@ -12,6 +12,7 @@ public class SportCarFactory extends AbstractFactory {
     public class test(){
     }
     public void tetee(){}
+    public void tetee111(){}
     @Override
     public BmwCar createBmwCar() {
         return new BmwBusiCar();
